@@ -16,7 +16,7 @@ Outside the web, I've built Flutter apps and a deep-learning project for waste c
 
 - 🚀 Building full-stack apps with Next.js, TypeScript and authentication
 - 🌱 Exploring Supabase and backend fundamentals
-- 📝 Polishing my portfolio and writing clear READMEs for every project
+- 📚 Strengthening my TypeScript and backend fundamentals
 - 💼 Looking for web development internship opportunities
 
 ## 🛠️ Featured Projects
@@ -31,30 +31,62 @@ Outside the web, I've built Flutter apps and a deep-learning project for waste c
 
 **Languages**
 
-![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Dart](https://skillicons.dev/icons?i=dart) ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /><br /><sub>Dart</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br /><sub>Python</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br /><sub>Java</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br /><sub>HTML</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br /><sub>CSS</sub></td>
+  </tr>
+</table>
 
 **Web**
 
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br /><sub>React</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br /><sub>Next.js</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br /><sub>Tailwind CSS</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br /><sub>Vite</sub></td>
+  </tr>
+</table>
 
 **Mobile, Data & Backend**
 
-![Flutter](https://skillicons.dev/icons?i=flutter) ![Firebase](https://skillicons.dev/icons?i=firebase) ![MySQL](https://skillicons.dev/icons?i=mysql)
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br /><sub>Flutter</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br /><sub>Firebase</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
+  </tr>
+</table>
 
 **Tools & Deployment**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify)
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><sub>Git</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br /><sub>GitHub</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br /><sub>VS Code</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br /><sub>Vercel</sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br /><sub>Netlify</sub></td>
+  </tr>
+</table>
 
 **Familiar with** (used with AI assistance, still learning)
 
-![Supabase](https://skillicons.dev/icons?i=supabase)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tasdid-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasdid-ahmed&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br /><sub>Supabase</sub></td>
+  </tr>
+</table>
 
 ## 📫 Get in Touch
 
